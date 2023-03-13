@@ -1,0 +1,47 @@
+
+*{
+    font-weight: 800;
+}
+.card-header{
+    margin-left: 5%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.card-header h1{
+    margin-top: 50px;
+}
+
+.card-header img{
+    width: 100px;
+    height: 100px;
+}
+
+.card-body{
+    margin-left: 0%;
+    text-align: center;
+    margin-top: 100px;
+}
+.card-body img{
+    margin-bottom: 70px;
+    width: 100px;
+   
+}
+
+.card-body h2{
+    display: inline-block;
+    width: 20%;
+}
+
+.mensaje h2{
+    text-align: center;
+    margin-left: 4%;
+}
+.formulario{
+    margin-left: 30%;
+    width: 50%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+

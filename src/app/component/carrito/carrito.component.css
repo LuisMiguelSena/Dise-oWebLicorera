@@ -1,0 +1,62 @@
+
+.titulo-header{
+    display:inline-block;
+    margin-left: 5%;
+}
+.titulo-header h1{
+    margin-top: 100px;
+    font-weight: 700;
+}
+
+ .comprar{
+    display: inline-block;
+    margin-left: 80%;
+}
+
+.comprar a{
+    width: 100%;
+}
+
+.lista-productos{
+    margin-left: 1%;
+    margin-bottom: 200px;
+}
+.productos{
+    margin-top: 100px;
+}
+
+.imagen{
+    display: inline-block;
+}
+
+.informacion{
+    display: inline-block;
+    width: 60%;
+}
+.informacion .precio{
+    display: inline-block;
+    margin-left: 20%;
+}
+
+.informacion p{
+    width: 50%;
+}
+
+.imagen img{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.btn-soporte{
+    margin-left: 50%;
+     
+}
+
+.btn-recibo{
+    margin-left: 20px;
+}
+
+.btn{
+    border-radius: 30px;
+}

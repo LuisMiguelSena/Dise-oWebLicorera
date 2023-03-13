@@ -1,0 +1,35 @@
+*{
+    font-weight: 800;
+}
+
+h1{
+    margin-left: 42%;
+}
+
+.iniciosesion{
+    margin-top: 200px;
+}
+.formulario{
+    background-color: black;
+    width: 40%;
+    text-align: center;
+    margin-left: 29%;
+    border-radius: 30px;
+    color: white;
+    margin-bottom: 300px;
+    height: 600px;
+
+}
+
+.label1{
+    margin-top: 80px;
+}
+
+.labels{
+    margin-left: 10%;
+    width: 80%;
+}
+
+.btn{
+    border-radius: 30px;
+}

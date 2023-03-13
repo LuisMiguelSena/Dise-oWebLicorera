@@ -1,0 +1,57 @@
+.carrusel{
+    width: 100%;
+}
+
+.productos h1{
+    margin-top: 150px;
+    text-align: center;
+}
+.mini-catalogo{
+    margin-left: 25%;
+    margin-top: 100px;
+}
+.card{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.card img{
+    height:286px ;
+}
+
+.card .aguila{
+    
+    width: 50%;
+    margin-left: 25%;
+}
+
+.mini-catalogo h5{
+    text-align: center;
+}
+
+.card .btn{
+    margin-left: 32%;
+}
+
+
+.card-text{
+    text-align: center;
+}
+
+.boton-productos{
+    margin-top: 70px;
+    margin-left: 44%;
+}
+
+.boton-productos a{
+   width: 20%;
+   border-radius: 50px;
+}
+
+.nosotros {
+    height: 400px;
+    margin-top: 200px;
+    width: 30%;
+    margin-left: 34.5%;
+    text-align: center;
+}

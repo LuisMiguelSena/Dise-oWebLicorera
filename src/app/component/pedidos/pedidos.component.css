@@ -1,0 +1,65 @@
+.pedidos{
+    width: 100;
+}
+.titulo-header{
+    display:inline-block;
+    margin-left: 5%;
+}
+.titulo-header h1{
+    margin-top: 50px;
+    font-weight: 700;
+}
+.buscador{
+    display: inline-block;
+    margin-left: 60%;
+    margin-top: 10px;
+}
+.lista-productos{
+    margin-left: 1%;
+}
+.productos{
+    margin-top: 100px;
+}
+
+.imagen{
+    display: inline-block;
+}
+
+.informacion{
+    display: inline-block;
+}
+.imagen img{
+    width: 200px;
+    height: 200px;
+    
+}
+
+nav{
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 45%;
+}
+
+
+
+.opciones-pedido{
+    display: inline-block;
+    margin-left: 30%;
+    width: 10%;
+}
+
+.opciones-pedido a{
+    margin-top: 10px;
+}
+
+.btn{
+    border-radius: 30px;
+}
+
+.btn-soporte{
+    width: 100%;
+}
+
+.btn-recibo{
+    width: 100%;
+}
